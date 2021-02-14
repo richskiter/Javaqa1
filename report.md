@@ -15,7 +15,6 @@
 В процессе тестирования использовались следующие артефакты:
 * [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-* [Баг-репорты](https://github.com/richskiter/Javaqa1/issues)
 * [Тест-кейсы](https://github.com/richskiter/Javaqa1/blob/master/test-cases.md)
 
 В качестве тестовых данных использовались данные из руководства использования KeyValidator:
